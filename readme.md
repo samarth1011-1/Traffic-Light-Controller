@@ -8,7 +8,7 @@ A simple FSM-based traffic light controller implemented using verilog
 - Completely synthesizable for FGPA implementation
 
 ## State Diagram
-![alt text](pngs/image.png)
+![alt text](pngs/state_diagram.jpg)
 
 ## Waveform
 ![alt text](pngs/image-1.png)
